@@ -93,10 +93,10 @@ logs/
 *.log
 
 # vibe coding
-AGENTS.md
+# AGENTS.md
 .claude
 openspec
-CLAUDE.md
+# CLAUDE.md
 *.tmp
 
 # Build cache
